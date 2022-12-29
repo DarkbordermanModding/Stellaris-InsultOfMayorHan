@@ -1,0 +1,92 @@
+action_insult = {
+	propose = {
+		MAYOR_INSULT_PROPOSE_1 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_2 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_3 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_4 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_5 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_6 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_7 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_8 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_9 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_10 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_11 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_12 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_13 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_14 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_15 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_16 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_17 = {
+			trigger = {}
+		}
+	}
+	propose = {
+		MAYOR_INSULT_PROPOSE_18 = {
+			trigger = {}
+		}
+	}
+}
