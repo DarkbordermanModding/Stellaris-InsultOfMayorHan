@@ -1,4 +1,4 @@
-# Stellaris-InsultFromMayorHan
+# Stellaris-InsultOfMayorHan
 
 
 ## Prerequisite
