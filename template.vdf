@@ -2,10 +2,27 @@
 {
  "appid" "${APP_ID}"
  "publishedfileid" "${PUBLISHFIELD_ID}"
- "contentfolder" "${PWD}/noconstellation"
- "previewfile" "${PWD}/preview.png"
- "visibility" "2"
- "title" "Remove constellation"
- "description" "Remove the constellation"
+ "contentfolder" "${PWD}/"
+ "previewfile" "${PWD}/preview.jpg"
+ "visibility" "0"
+ "title" "Insult of Mayor Han(韓市長的羞辱)"
+ "description" "
+    [h1] Insult of Mayor Han(韓市長的羞辱) [/h1]
+    新增韓國瑜經典語句到Stellaris中
+    現在可以用[spoiler]發大財和漱口杯[/spoiler]來調侃對手了
+
+    [h1] More details [/h1]
+    新增了18句韓國瑜的口號和回應, 例如:
+    [spoiler]貨賣得出去，人進得來，<首都>發大財[/spoiler]
+    [spoiler]可憐哪。[/spoiler]
+    等等, 歡迎提交其他適合的語句
+
+    [h1] Compatiable Version [/h1]
+    3.6.*
+
+    [h1] Language Support [/h1]
+    繁體中文
+    Chinese(Traditional)
+ "
  "changenote" "Initial Release"
 }
